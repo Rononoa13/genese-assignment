@@ -1,0 +1,17 @@
+@font-face{
+    font-family:'digital-clock-font';
+    src: url('put_the_location_to_your_font.ttf or .otf');
+   }
+
+body {
+    background: black;
+}
+
+#clock {
+    color: blue;
+    font-size: 50px;
+    font-family: Orbitron;
+    position: absolute;
+    left: 30%;
+    top: 30%;
+}
